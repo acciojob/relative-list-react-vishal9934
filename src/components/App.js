@@ -1,7 +1,7 @@
 import React from 'react';
 
 const App = () => {
-  const relatives = ['John', 'Emily', 'David', 'Sarah', 'Michael'];
+  const relatives = ['vishal', 'rabina', 'sachin', 'rohit', 'ali'];
 
   return (
     <div>
